@@ -1,5 +1,5 @@
-# akka-java-cluster-openshift
-An Akka Java cluster OpenShift demo application 
+# akka-java-cluster-ibm-cloud
+An Akka Java cluster IBM Cloud Private demo application 
 
 
 This is an amazing way to visualize Akka Cluster behavior, and demonstrate core reactive systems principles! 
