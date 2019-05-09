@@ -4,7 +4,7 @@ An Akka Java cluster IBM Cloud Private demo application
 
 This is an amazing way to visualize Akka Cluster behavior, and demonstrate core reactive systems principles! 
 
-If you are not inclined to spin up OKD, Openshift or the like, here are a few additional steps you need to use your trusty minikube instance: 
+If you are not inclined to spin up IBM Cloud Private, IKS or the like, here are a few additional steps you need to use your trusty minikube instance: 
 
 Create the target namespace (akka-cluster-1): 
 
