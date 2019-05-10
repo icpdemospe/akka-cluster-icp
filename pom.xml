@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>akka-java</groupId>
-    <artifactId>cluster-sharding-icp</artifactId>
+    <artifactId>akka-cluster-icp</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -14,7 +14,7 @@
         <akka.version>2.5.22</akka.version>
         <akka.http.version>10.1.8</akka.http.version>
         <akka.cluster.bootstrap.version>1.0.0</akka.cluster.bootstrap.version>
-        <docker.image.version>1.0.2</docker.image.version>
+        <docker.image.version>1.0.3</docker.image.version>
         <jackson.version>2.9.8</jackson.version>
         <junit.version>4.12</junit.version>
         <junit.jupiter.version>5.0.2</junit.jupiter.version>
@@ -155,7 +155,7 @@
             </plugin>
 
             <!-- See When using JarJar, OneJar, Assembly or any jar-bundler -->
-            <!-- https://doc.akka.io/docs/akka/current/general/configuration.html#when-using-jarjar-onejar-assembly-or-any-jar-bundler -->
+            <!-- https://doc.akka.io/docs/akka/current/general/configuration.html# -->
             <!-- mvn clean package docker:build -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
