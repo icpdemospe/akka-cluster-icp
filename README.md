@@ -1,4 +1,4 @@
-# akka-java-cluster-ibm-cloud
+# akka-java-cluster-icp
 An Akka Java cluster IBM Cloud Private demo application 
 
 
