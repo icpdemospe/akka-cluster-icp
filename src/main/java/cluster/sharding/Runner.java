@@ -8,7 +8,7 @@ import akka.cluster.sharding.ClusterSharding;
 import akka.cluster.sharding.ClusterShardingSettings;
 import akka.cluster.singleton.ClusterSingletonManager;
 import akka.cluster.singleton.ClusterSingletonManagerSettings;
-import akka.management.AkkaManagement;
+import akka.management.scaladsl.AkkaManagement;
 import akka.management.cluster.bootstrap.ClusterBootstrap;
 
 import java.util.concurrent.CompletableFuture;
